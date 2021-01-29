@@ -22,13 +22,6 @@ body {
 h1,h2,h3,h4,p,a,span,li,tr,td,textarea,button,input,div{
     text-align:center;
     color:rgba(100, 50, 255, .8);
-    color:#212121;
-}
-
-
-.rainbow {
-  
-   /* Font options */
   text-shadow: 2px 2px 4px #000000;
   font-size:40px;
   
@@ -41,6 +34,9 @@ h1,h2,h3,h4,p,a,span,li,tr,td,textarea,button,input,div{
   /* Standar Syntax */
   animation: rainbow 5s infinite; 
 }
+
+
+
 
 /* Chrome, Safari, Opera */
 @-webkit-keyframes rainbow{
